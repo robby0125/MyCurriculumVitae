@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCurriculumVitae</string>
+    <string name="about_me">About Me</string>
+    <string name="skills">Skills</string>
+    <string name="my_history">My History</string>
+    <string name="my_social_media">My Social Media</string>
+    <string name="educational_history">Educational History</string>
+    <string name="awards">Awards</string>
+</resources>
